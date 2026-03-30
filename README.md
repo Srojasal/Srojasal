@@ -38,10 +38,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srojasal&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srojasal&theme=tokyonight" alt="streak"/>
 </p>
 
