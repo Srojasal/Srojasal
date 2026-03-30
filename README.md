@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Srojasal">
-    <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=Srojasal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c#,Java,dotnet,git,github,bash," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,Java,dotnet,git,github" />
 </p>
 
 ---
