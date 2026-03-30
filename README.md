@@ -4,8 +4,13 @@
 <p align="center">
   <a href="https://github.com/Srojasal">
     <img src="https://komarev.com/ghpvc/?username=Srojasal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+
   </a>
 </p>
+
+[![GitHub](https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Srojasal)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sebasr_0227)
 
 ---
 
@@ -60,7 +65,7 @@
 
 ## ⚡ Fun Fact
 
-> I don’t just write code… I build solutions that actually work.
+> I studied music theory for 5–6 years and I can play the bassoon.
 
 ---
 
