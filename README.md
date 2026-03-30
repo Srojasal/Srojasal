@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sebastián Rojas</h1>
 <h3 align="center">Web Design & Development Student | IT Background </h3>
 
+![banner](https://raw.githubusercontent.com/Srojasal/Srojasal/e06b42383754635e1cd57df89b789e53a9970092/Me.png)
+
 <p align="center">
   <a href="https://github.com/Srojasal">
     <img src="https://komarev.com/ghpvc/?username=Srojasal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-
+    
   </a>
 </p>
 
